@@ -1,0 +1,6 @@
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Rotation\Rotation\bin\Debug\Rotation.exe.config
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Rotation\Rotation\bin\Debug\Rotation.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Rotation\Rotation\bin\Debug\Rotation.pdb
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Rotation\Rotation\obj\Debug\Rotation.csprojResolveAssemblyReference.cache
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Rotation\Rotation\obj\Debug\Rotation.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Rotation\Rotation\obj\Debug\Rotation.pdb
